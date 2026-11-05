@@ -1,8 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&height=50&lines=Hola%2C+soy+Ismael+%F0%9F%91%8B;Desarrollador+Python+%7C+Trading+Algor%C3%ADtmico;Automatizaci%C3%B3n+y+Sistemas+Multiagente" alt="Typing SVG" />
-  </a>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0d1117&customColor_list=13,20,35&height=220&section=header&text=Ismael%20Fernández&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&sub=Python%20Developer%20|%20Trading%20Algorítmico%20|%20Automatización&subFontSize=16&subColor=3776AB" width="100%"/>
+</p>
 
 ---
 
