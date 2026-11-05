@@ -13,7 +13,7 @@
 
 ---
 
-Programo en Python y me interesa sobre todo la automatización y el trading algorítmico. Vivo en Lora de Estepa (Sevilla).
+Programo en Python y me interesa sobre todo la automatización y el trading algorítmico.
 
 Antes de dedicarme a esto trabajé diez años como masajista. Ahora estoy haciendo un cambio completo hacia la programación: estoy cursando la formación de desarrollo Full Stack en ConquerBlocks y, en paralelo, aprendo por mi cuenta construyendo herramientas y scripts desde cero. Le doy mucha importancia a la parte que no se ve: cómo está organizado el código, qué responsabilidad tiene cada pieza y cómo encaja todo usando programación orientada a objetos.
 
