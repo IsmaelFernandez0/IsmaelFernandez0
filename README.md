@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%3E___SYSTEM_ONLINE-0d1117?style=for-the-badge&logo=gnubash&logoColor=58A6FF" alt="System online" />
+  <img src="https://img.shields.io/badge/ABIERTO_A-PR%C3%81CTICAS_Y_JUNIOR-3FB950?style=for-the-badge" alt="Abierto a prácticas y junior" />
   <img src="https://img.shields.io/badge/TRADING_BOT-MULTIAGENTE-2A5DA8?style=for-the-badge" alt="Trading bot multiagente" />
 </p>
 
