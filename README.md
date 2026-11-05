@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0d1117&customColor_list=13,20,35&height=220&section=header&text=Ismael%20Fernández&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&sub=Python%20Developer%20|%20Trading%20Algorítmico%20|%20Automatización&subFontSize=16&subColor=3776AB" width="100%"/>
+  <img src="banner.png" alt="Ismael Fernández · Desarrollador Python · Trading algorítmico" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Python+Developer+%7C+Trading+Algor%C3%ADtmico;Automatizaci%C3%B3n+%26+Sistemas+Multiagente" alt="Python Developer | Trading Algorítmico" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%3E___SYSTEM_ONLINE-0d1117?style=for-the-badge&logo=gnubash&logoColor=58A6FF" alt="System online" />
+  <img src="https://img.shields.io/badge/TRADING_BOT-MULTIAGENTE-2A5DA8?style=for-the-badge" alt="Trading bot multiagente" />
 </p>
 
 ---
@@ -12,8 +21,8 @@ Estoy abierto a prácticas o a un primer puesto como desarrollador junior.
 
 ## 📌 Proyectos
 
-**XAUUSD Momentum** *(repositorio privado)*
-Bot de trading para XAUUSD (oro) escrito en Python e integrado con MetaTrader 5. En vez de un único script que lo haga todo, está diseñado como un sistema multiagente en el que cada componente tiene una función concreta y se coordina con los demás. Ahora mismo está en forward test en cuenta demo, funcionando en un VPS con Windows.
+**Bot de trading algorítmico** *(repositorio privado)*
+Bot de trading escrito en Python e integrado con MetaTrader 5. En vez de un único script que lo haga todo, está diseñado como un sistema multiagente en el que cada componente tiene una función concreta y se coordina con los demás. Ahora mismo está en forward test en cuenta demo, funcionando en un VPS con Windows.
 
 El código es privado, pero si te interesa puedo explicarte su arquitectura en una entrevista.
 
@@ -23,10 +32,10 @@ El código es privado, pero si te interesa puedo explicarte su arquitectura en u
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaTrader_5-2A5DA8?style=flat&logo=metatrader&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaTrader_5-2A5DA8?style=flat" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat" />
   <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -46,6 +55,6 @@ Me gusta tener el código bien separado por responsabilidades, revisar cada camb
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/ismael.fz1997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ismael.fz1997@gmail.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/TU_PERFIL) -->
 
 Si te interesa algo de lo que hago o quieres comentar una idea, escríbeme.
