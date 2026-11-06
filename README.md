@@ -55,6 +55,6 @@ Me gusta tener el código bien separado por responsabilidades, revisar cada camb
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/ismael.fz1997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ismael.fz1997@gmail.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/TU_PERFIL) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](linkedin.com/in/ismael-fernandez-176b0b2b3)
 
 Si te interesa algo de lo que hago o quieres comentar una idea, escríbeme.
